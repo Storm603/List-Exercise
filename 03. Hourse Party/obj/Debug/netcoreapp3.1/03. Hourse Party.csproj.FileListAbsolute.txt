@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.exe
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.deps.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.dll
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\bin\Debug\netcoreapp3.1\03. Hourse Party.pdb
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.dll
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.pdb
+C:\Users\Kristiyan\source\repos\Lists Exercise\03. Hourse Party\obj\Debug\netcoreapp3.1\03. Hourse Party.genruntimeconfig.cache

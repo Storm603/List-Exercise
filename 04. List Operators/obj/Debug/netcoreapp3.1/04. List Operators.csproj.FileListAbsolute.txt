@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.exe
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.deps.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.dll
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\bin\Debug\netcoreapp3.1\04. List Operators.pdb
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.dll
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.pdb
+C:\Users\Kristiyan\source\repos\Lists Exercise\04. List Operators\obj\Debug\netcoreapp3.1\04. List Operators.genruntimeconfig.cache
